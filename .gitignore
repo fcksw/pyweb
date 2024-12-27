@@ -4,3 +4,5 @@
 .venv
 # pyenv python版本
 .python-version
+# cache
+__pycache__
